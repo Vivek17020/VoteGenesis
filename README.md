@@ -66,9 +66,12 @@ The blockchain is established using the geth program. Geth is the go-based imple
 
 ### Voter Interface
 
-![alt text](https://github.com/safeer2978/Blockchain_Based_Voting_system/blob/master/Diagrams/1.jpg)
-![alt text](https://github.com/safeer2978/Blockchain_Based_Voting_system/blob/master/Diagrams/2.jpg)
-![alt text](https://github.com/safeer2978/Blockchain_Based_Voting_system/blob/master/Diagrams/3.jpg)
+![alt text](![image](https://github.com/user-attachments/assets/9200b75f-8f0a-45cf-930e-2d42ecd444b1)
+)
+![alt text](![image](https://github.com/user-attachments/assets/bfa0a1d6-ed3d-409f-9c49-cb579cf9ddfb)
+)
+![alt text](![image](https://github.com/user-attachments/assets/2fad02c5-c976-4b9e-a60f-6862738e8351)
+)
 
 ### Election Commision Interface
 ![alt text](https://github.com/safeer2978/Blockchain_Based_Voting_system/blob/master/Diagrams/11.jpg)
